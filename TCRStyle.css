@@ -1,0 +1,46 @@
+html{
+    font-size: 16px;
+    font-family: 'Lato', sans-serif;
+}
+
+nav{
+    font-size: 1.25rem;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+    color: #00467f;
+    font-size: 1.25rem;
+}
+
+.navbar-dark .navber-brand{
+    color: #00467f;
+    font-size: 1.25rem;
+}
+
+h1{
+    margin: 10px;
+}
+
+h2{
+    margin: 15px;
+}
+
+h3{
+    margin: 15px;
+}
+
+h4{
+    margin: 15px;
+}
+
+h5{
+    margin: 15px;
+}
+
+h6{
+    margin: 15px;
+}
+
+p{
+    margin: 25px;
+}
